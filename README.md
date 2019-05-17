@@ -2,7 +2,7 @@
 
 This is an implementation of [NLProlog](todo), a method for approaching Question Answering tasks with Prolog-like reasoning over natural language statements. 
 
-At the core of NLProlog is the Prolog interpreter [sPyrolog](https://github.com/leonweber/nlprolog/spyrolog), which can be found in a separate repository.
+At the core of NLProlog is the Prolog interpreter [sPyrolog](https://github.com/leonweber/spyrolog), which can be found in a separate repository.
 sPyrolog is a fork of the [Prolog interpreter Pyrolog](https://bitbucket.org/cfbolz/pyrolog/).
 
 ![Proof examples](example_proofs.png?raw=true "Title")
