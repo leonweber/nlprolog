@@ -1,0 +1,12 @@
+gensim
+graphviz
+joblib
+nltk
+pymagnitude
+scipy
+scikit-learn
+torch
+tqdm
+pexpect
+ray
+

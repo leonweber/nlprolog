@@ -1,0 +1,7 @@
+digraph plot {
+	0 [label="s5(e0,e3). :- "]
+	1 [label="s5(X,Y) :- s4(X,Y)"]
+	2 [label="s4(e0,e3). :- "]
+	0 -> 1 [label=1.000000]
+	1 -> 2 [label=0.817048]
+}

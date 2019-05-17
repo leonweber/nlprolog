@@ -1,0 +1,19 @@
+{
+        "type": "Sent2Vec",
+        "embeddings": "sent2vec_wiki_unigrams.bin",
+        "pred_dim": 600,
+        "ent_dim": 600,
+        "model_path": "",
+        "reload": false,
+        "train_symbol": true,
+        "train_predicate": false,
+        "train_entity": false,
+        "grl": 0,
+        "data": "developerhop_spacy",
+        "lambda_epochs": 0,
+        "semantic_query_init": true,
+        "grl_lambda_cut": 0.2,
+        "lambda_cut": 0.5,
+        "rules": "developer.txt",
+        "epochs": 100
+}
