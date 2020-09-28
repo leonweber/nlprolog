@@ -1,6 +1,6 @@
 {
         "type": "Sent2Vec",
-        "embeddings": "/home/shared/embeddings/sent2vec_wiki_unigrams.bin",
+        "embeddings": "sent2vec_wiki_unigrams.bin",
         "pred_dim": 600,
         "ent_dim": 600,
         "model_path": "",
@@ -15,5 +15,5 @@
         "grl_lambda_cut": 0.2,
         "lambda_cut": 0.5,
         "rules": "country.txt",
-        "epochs": 50
+        "epochs": 100
 }
